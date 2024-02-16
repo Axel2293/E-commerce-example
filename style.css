@@ -1,0 +1,12 @@
+.container .row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-img-top{
+    min-width: 228px;
+    max-width: 228px;
+
+    height: 330px;
+}
